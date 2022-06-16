@@ -64,7 +64,7 @@
 <br>
 <br>
 <br>
-<h2 align="left">👀 Tech Stack:</h2 <br />
+<h2 align="left">👀 Tech stack:</h2 <br />
 <br />
 
 
@@ -93,7 +93,7 @@
 <!--       <a href="https://github.com/mathewajo">
           <img allign="left" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
       </a> -->
-      <h2 align="left">📊 Github Status</h2>
+      <h2 align="left">📊 Github status</h2>
   </p>
   <p align="left">
       <a href="https://github.com/mathewajo">
@@ -114,9 +114,9 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6K%20lines%20of%20code-blue) 
 
-## 💡 Snake eating my contribution graph
+## 🐍 Snake eating my contribution graph
 ![snake gif](https://github.com/mathewajo/mathewajo/blob/output/github-contribution-grid-snake.gif)
-<h2>📮 Connect With Me
+<h2>📮 Connect with me
   <a target="_blank">
     <img src="https://github.com/mathewajo/GIF/blob/e9aa9eb899e79b82c1505a942ad7ad3e0a6f37f7/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
@@ -179,7 +179,7 @@
 
 <!--START_SECTION:waka-->
 
-<h2 align="left">You have stayed on my page for:</h2>
+<h2 align="left">😉 You have stayed on my page for:</h2>
 <p align="left">
   <img width="360" height="200" src="https://raw.githubusercontent.com/mathewajo/SVG/5f29a4dabd7d51e44a503146bce67d8ea2a2f8fa/clock.svg">
 </p>
