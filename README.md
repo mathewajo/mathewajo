@@ -33,8 +33,6 @@
 <h2 align="left">🛠️ Tools and languages</h2 <br />
 <br />
 
-- 📍  Living in Heilbronn, Germany.
-- 📁  Currently working on the core curriculum of 42. -->
 - 💻  basic `C` programming skills.
 - ⚓  basic `HTML, CSS` skills
 - 🌅  basic `Bootstrap` skills
