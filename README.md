@@ -114,6 +114,8 @@
 
 ## 🐍 Snake eating my contribution graph
 ![snake gif](https://github.com/mathewajo/mathewajo/blob/output/github-contribution-grid-snake.gif)
+<h3>Coming Soon...😇</h3>
+</br>
 <h2>📮 Connect with me
   <a target="_blank">
     <img src="https://github.com/mathewajo/GIF/blob/e9aa9eb899e79b82c1505a942ad7ad3e0a6f37f7/Handshake.gif" height="25px" style="max-width:100%;">
