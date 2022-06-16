@@ -137,45 +137,45 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/ajo-mathew-b87751225/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/mathewajo/SVG/5f29a4dabd7d51e44a503146bce67d8ea2a2f8fa/linkedin.svg"/></code>
   </a>
   <a href="https://www.facebook.com" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code>
+    <code><img  height="60" width="60" src="https://raw.githubusercontent.com/mathewajo/SVG/5f29a4dabd7d51e44a503146bce67d8ea2a2f8fa/facebook.svg"/></code>
   </a>
   
   
   
   <a href="https://www.instagram.com/mathewajo/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/mathewajo/SVG/5f29a4dabd7d51e44a503146bce67d8ea2a2f8fa/instagram.svg"/></code>
   </a>
   <a href="https://twitter.com/mathewajo" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/mathewajo/SVG/5f29a4dabd7d51e44a503146bce67d8ea2a2f8fa/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ajo's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
 
 <p align="center">
   <a href="https://www.hackerrank.com//" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/mathewajo/IMG/blob/main/hackerrank.png?raw=true"/></code>
   </a>
 
   <a href="http://www.codeforces.com/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/cf.png"/></code>
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/mathewajo/SVG/5f29a4dabd7d51e44a503146bce67d8ea2a2f8fa/codeforces.svg"/></code>
   </a>
 
   <a href="https://www.hackerearth.com/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/mathewajo/SVG/5f29a4dabd7d51e44a503146bce67d8ea2a2f8fa/hackearth.svg"/></code>
   </a>
 
   <a href="https://www.codechef.com/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/mathewajo/SVG/5f29a4dabd7d51e44a503146bce67d8ea2a2f8fa/codechef.svg"/></code>
   </a>
   
   <a href="https://leetcode.com/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/lc.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/mathewajo/IMG/blob/main/leetcode_logo_icon_145113.png?raw=true"/></code>
   </a>
 </p>
 
@@ -189,18 +189,24 @@
 <!--START_SECTION:waka-->
 
 <h2 align="left">You have stayed on my page for:</h2>
-<p align="center">
-  <img width="460" height="300" src="https://github.com/tomchen/animated-svg-clock/blob/master/clock.svg">
+  <hr>
+<p align="left">
+  <img width="360" height="200" src="https://raw.githubusercontent.com/mathewajo/SVG/5f29a4dabd7d51e44a503146bce67d8ea2a2f8fa/clock.svg">
 </p>
 
-
+<!-- 
 <div align="center">
 
 ### made with ❤️ in Deutschland
 
 </div>
-
+ -->
 
 
 #
-![footer](https://github.com/mathewajo/PNG/blob/591b3b411dbed79c473851d1d1965cde982dc621/footer.png)
+![footer](https://github.com/mathewajo/IMG/blob/main/footer_love_what_you_do.jpg?raw=true)
+  <div align="center">
+
+### made with ❤️ in Deutschland
+
+</div>
