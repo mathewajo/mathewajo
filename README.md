@@ -15,7 +15,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Ajo Mathew</h1>
-<h3 align="center">A passionate Software Developer Student at 42 Heilbronn, Germany.</h3>
+<h3 align="center">A Software Developer Student at 42 Heilbronn, Germany.</h3>
 <p align="left">
   <img src="https://gpvc.arturio.dev/mathewajo" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
 <!--   <img alt = "profile views" src="img src="https://komarev.com/ghpvc/?username=mathewajo&style=flat&color=brightgreen"> •    -->
@@ -27,18 +27,28 @@
 <br/>
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
-- 🔭  I’m currently working on **C** **Projects**
-- 🌱  I’m currently learning **Software Development at 42 Heilbronn**
-- 💬  Ask me about **C**
-- 📫  How to reach me **ajomathew@gmx.de**
-- 🥅  2022 Goals: **Learn Advanced C, C++, Web Development**
-- 💻  Looking for a carrier in **Web development**
-- 🤔  I'm looking for help with **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
+
+- 👨🏼‍🎓  Student at 42 in Heilbronn.
+- 📍  Living in Heilbronn, Germany.
+- 📁  Currently working on the core curriculum of 42.
+- 🌱  I’m currently learning **Software Development at 42 Heilbronn** and front end web developement.
+- ✉️  How to reach me **https://mathewajo.github.io/cv/** or **ajomathew@gmx.de**
+- 💻  I'm looking for junior front end web developer internship / junior **Front End Web developmer** postions.
 - 😄  Pronouns : **He/Him/His** 
  </a>
-
- 
-
+  <h2 align="left">Tools and languages</h2
+<br/>
+<br/>
+  
+<!-- - 👨🏼‍🎓  Student at 42 in Heilbronn.
+- 📍  Living in Heilbronn, Germany.
+- 📁  Currently working on the core curriculum of 42. -->
+- 💻  basic C programming skills.
+- ⚓  basic HTML, CSS skills
+- 🌅  basic Bootstrap skills
+- 🌈  basic balsamiq skills
+- 📌  intermediate Adobe Phtoshop skills
+- 📊   intermediate MS Office Skills
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=mathewajo&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/mathewajo)
 
