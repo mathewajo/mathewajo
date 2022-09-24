@@ -92,15 +92,7 @@
           <img allign="left" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
       </a> -->
       <h2 align="left">📊 Github status</h2>
-  </p>
-  <p align="left">
-      <a href="https://github.com/mathewajo">
-          <img align="left" src="https://github-readme-stats.vercel.app/api?username=mathewajo&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" />
       </a>
-      <a href="https://github.com/mathewajo">
-          <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewajo&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-      </a>
-  </p>
   </details>
   <br>
 
