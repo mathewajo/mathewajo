@@ -26,7 +26,7 @@
 - 📍  Living in Heilbronn, Germany.
 - 📁  Currently working on the core curriculum of 42.
 - 🌱  I am interested in the `front end web developement.`
-- ✉️  How to reach me **https://mathewajo.github.io/cv/** or ajomathew@gmx.de
+- ✉️  How to reach me **https://mathewajo.github.io/cv/**
 - 💻  I'm looking for `junior front end web developer internship` / Jr. Front End Developer positions in Germany.
  </a>
  
